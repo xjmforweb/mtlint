@@ -1,0 +1,19 @@
+{
+  "name": "mt-lint-fix",
+  "version": "1.0.5",
+  "description": "npm install mt-lint-fix -g",
+  "main": "coll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mt-lint": "index.js"
+  },
+  "dependencies": {
+    "commander": "^5.0.0",
+    "chalk": "^3.0.0",
+    "inquirer": "^7.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
